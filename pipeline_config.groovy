@@ -1,6 +1,6 @@
 alow_scm_jenkinsfile = false
 
-libraries{
+@merge libraries{
     maven{
       message = "From MAVEN App repository main branch date 01.11.21!"
     }
