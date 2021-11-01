@@ -7,6 +7,6 @@ libraries{
     }
     
     docker{
-      message = "DOCKER variable from Maven App repository!"     
+      location = "DOCKER variable from Maven App repository!"     
     }
 }
