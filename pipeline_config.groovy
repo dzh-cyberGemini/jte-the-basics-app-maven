@@ -1,4 +1,5 @@
-/*alow_scm_jenkinsfile = false
+alow_scm_jenkinsfile = false
+pipeline_template = "test_template"
 
 libraries{
     maven{
@@ -11,4 +12,4 @@ libraries{
         message = "HELLO from GRADLE-app repository! This is message variable."
         number = 5
     }
-}*/
+}
