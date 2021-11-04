@@ -12,4 +12,4 @@ libraries{
         message = "HELLO from GRADLE-app repository! This is message variable."
         number = 5
     }
-}
+}*/
