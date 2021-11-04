@@ -1,4 +1,4 @@
-alow_scm_jenkinsfile = false
+/*alow_scm_jenkinsfile = false
 pipeline_template = "maven_template"
 
 libraries{
