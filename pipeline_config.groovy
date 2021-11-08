@@ -5,8 +5,8 @@ libraries{
     maven{
       message = "From MAVEN App repository main branch date 08.11.21!"
     }
-    gradle{
+    /*gradle{
         message = "HELLO from GRADLE-app repository! This is message variable."
         number = 23
-    }
+    }*/
 }
