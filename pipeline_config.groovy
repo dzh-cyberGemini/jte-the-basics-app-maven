@@ -1,5 +1,7 @@
-alow_scm_jenkinsfile = false
-pipeline_template = "maven_template"
+jte{
+  pipeline_template = "maven_template"
+}
+
 
 libraries{
     maven{
